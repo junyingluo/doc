@@ -1,0 +1,31 @@
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Cambria Math", "微软雅黑";
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cambria Math", "微软雅黑";
+  margin: 10px 0;
+  padding: 0;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+pre {
+  margin-bottom: 10px;
+}
+
+code {
+	font-family: "JetBrains Mono Light", "微软雅黑";
+  font-size: 16px;
+}
+

@@ -1,0 +1,26 @@
+{
+  "markdown.copyFiles.overwriteBehavior": "nameIncrementally",
+  "markdown.copyFiles.destination": {
+    "**/*.md": "assets/${documentBaseName}/${fileName}"
+  },
+  "markdown.preview.markEditorSelection": false,
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.openMarkdownLinks": "inPreview",
+  "markdown.updateLinksOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "files.exclude": {
+    "**/assets": true
+  },
+  "pangu.auto_format_on_save": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "C_Cpp.clang_format_path": "C:\\Users\\49463\\.vscode\\extensions\\ms-vscode.cpptools-1.23.3-win32-x64\\LLVM\\bin\\clang-format.exe",
+  "markdown.styles": ["custom.css"],
+  "editor.defaultFormatter": null,
+  "cmake.ignoreCMakeListsMissing": true,
+  "files.autoSave": "off",
+}
