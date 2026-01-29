@@ -105,9 +105,6 @@ function setupAsymmetricCamera(obstacles: any[]) {
     }
   });
 
-  near *= 0.9;
-  far *= 1.1;
-
   // left / right / top / bottom
   let left = Infinity;
   let right = -Infinity;
