@@ -9,10 +9,13 @@
   "markdown.updateLinksOnFileMove.enabled": "always",
   "editor.formatOnSave": true,
   "[markdown]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    
   },
+  "markdown.preview.syntaxHighlighting": true,
+  "markdown.experimental.syntaxHighlighting": true,
   "files.exclude": {
-    "**/assets": true
+    "**/assets": false
   },
   "pangu.auto_format_on_save": true,
   "editor.tabSize": 2,
